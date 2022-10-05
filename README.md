@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá Visiantes 🤙
+## Sou vinicius, surdo 👂❌
+## Aluno centro universitário SENAC de santos 🏦
 
-<!--
-**viniEvoTech/viniEvoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente cursando Técnico em informática
+- Estou aprendendo Programação e Desenvolimento Web
+- Vou tentar ser Full Stack futuro 
+<div>
+<a herf="https://github.com/viniEvoTech">
+  <img heigth="180em" src="https://github-readme-status.vercel.app/api?username=viniEvoTech_icons=true&theme=dracula&inclube_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=viniEvoTechayout=compact&langs_count=16&therme=dracula"/>
+  
+<div style="display: inline_black"><br>
+  <img align="center" alt="HTML5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Visual Studio Code" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" alt="Visual Studio C#" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="PHP" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="MySql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
