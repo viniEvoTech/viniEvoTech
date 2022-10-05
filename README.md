@@ -5,10 +5,11 @@
 - Atualmente cursando Técnico em informática
 - Estou aprendendo Programação e Desenvolimento Web
 - Vou tentar ser Full Stack futuro 
+
 <div>
 <a herf="https://github.com/viniEvoTech">
-  <img heigth="180em" src="https://github-readme-status.vercel.app/api?username=viniEvoTech_icons=true&theme=dracula&inclube_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=viniEvoTechayout=compact&langs_count=16&therme=dracula"/>
+  <img heigth="180em" src="https://github-readme-status.vercel.app/api?username=viniEvoTech&show_icons=false&theme=dracula&inclube_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=viniEvoTech&layout=compact&langs_count=16&therme=dracula"/>
   
 <div style="display: inline_black"><br>
   <img align="center" alt="HTML5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -18,4 +19,5 @@
 <img align="center" alt="Visual Studio C#" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="PHP" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="MySql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </div>
 
