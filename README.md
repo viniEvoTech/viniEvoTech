@@ -3,7 +3,7 @@
 ## Aluno centro universitário SENAC de santos 🏦
 
 - Atualmente cursando Técnico em informática
-- Estou aprendendo Programação e Desenvolimento Web
+- Aprendendo Programação e Desenvolimento Web
 - Vou tentar ser Full Stack futuro 
 
 <div>
