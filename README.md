@@ -3,8 +3,8 @@
 ## Aluno centro universitário SENAC de santos 🏦
 
 - Atualmente cursando Técnico em informática
-- Aprendendo Programação e Desenvolver Web
-- estou desenvolendo bem frond-end e back-end e vou tentar ser Full Stack futuro 
+- Aprendendo Programação e Desenvolver Web Front-end e Back-end
+- Vou tentar ser Full Stack futuro 
 
 <div>
 <a herf="https://github.com/viniEvoTech">
