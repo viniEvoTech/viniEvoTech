@@ -5,11 +5,16 @@
 - Aprendendo Programação e Desenvolver Web Front-end e Back-end 🖼🔗🎲
 - Vou tentar ser Full Stack futuro 🦾😎
 
-<div>  
-<a href="mailto:contato@brunovinicius03.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+###
+
+<div>
+  <a href="mailto:contato@brunovinicius03.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vinni.pavan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/vinicius-b-pavan-6a078524a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+  
+![Snake animation](https://github.com/viniEvoTech/viniEvoTech/blob/output/github-contribution-grid-snake.svg)  
+</div>
+
 
 ## Análise ⚙
 
