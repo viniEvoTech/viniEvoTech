@@ -1,7 +1,7 @@
 ### Olá! Sou vinicius, surdo 👂❌ 
 ### Aluno centro universitário SENAC de santos 🏦
 
-- Atualmente Estuando Técnico em informática 💻⚙
+- Atualmente Estudando Técnico em informática 💻⚙
 - Aprendendo Programação e Desenvolver Web Front-end e Back-end 🖼🔗🎲
 - Vou tentar ser Full Stack futuro 🦾😎
 
